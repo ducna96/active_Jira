@@ -1,7 +1,7 @@
 install and crack jira all version
 #download jira from docker
 https://github.com/ducna96/docker_Jira
-#dowload tool
+#dowload tool crack
 https://drive.google.com/drive/folders/12y7A4HpYFsWQ-T1Gn77rSGA6BMRO5btz
 #connect docker container of jira to copy 2 file need patch atlassian-extras-3.2.jar,atlassian-universal-plugin-manager-plugin-2.22.9.jar
 docker exec -it dockerjira_jira_1 bash
