@@ -98,7 +98,7 @@ export JAVA_OPTS="-javaagent:/opt/atlassian/atlassian-agent.jar ${JAVA_OPTS}"
 restart jira
 access WEb UI to get server ID 
 
-![](images/1.jpg) 
+![](../images/1.jpg) 
 
 CMD to gen key active
 ```sh
